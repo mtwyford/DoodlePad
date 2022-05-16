@@ -1,0 +1,8 @@
+For files r projects needing speacial or additional libraries imported or implemented,   
+that are NOT within the normal scope of installed java libraries, you may need to  
+install additional files, like the .jar file, or even add a 'classpath' or '-cp' to  
+the compile and run execution statments, already built into your IDE.  
+
+For Geany, the Java IDE used in our course, we may want to add those to the menu  
+already built into the editor.  
+
