@@ -1,3 +1,5 @@
+# Getting Started With DoodlePad and ClassPath
+
 For files or projects needing speacial or additional libraries imported or implemented,   
 that are NOT within the normal scope of installed java libraries, you may need to  
 install additional files, like the .jar file, or even add a 'classpath' or '-cp' to  
