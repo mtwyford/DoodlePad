@@ -39,4 +39,21 @@ commands built into the IDE.
 
 ### Consider the menu editor for Geany and DoodlePad
 
+From the "Build" option in the Geany Menu Bar, Select "Set Build Commands"
+
 ![image of Geany Menu](/img/Geany_Menu.jpeg)
+
+Next, select the (empty) or 2nd and/or 3rd buttons under the Java Commands  
+options, and enter or copy the javac command above.  Note, however that  
+not every one of your projects are going to be named "MyFirstDoodle.java"  
+so, consider instead the substitution phrase, %f, wrapped in quotes, that
+suggest the compile chooses to comile the active file or tab in Geany.
+
+* for clarity's sake, let's give you what you need to paste into your editor  
+* for the Mac
+  * javac -cp ".:doodlepad.jar" "%f"
+  * NOTICE - the jar file and %f substitution are both wrapped in quotes
+  * see image below for example
+
+![image of Geany Build Config](/img/Geany_Menu.jpeg)
+
