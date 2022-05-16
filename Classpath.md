@@ -8,7 +8,7 @@ already built into the editor.
 
 You may simply tweak your terminal commands slightly, to compile and run the following commands:
 
-* javac -cp ".:doodlepad.jar" "MyDoodlePadCode.java"  
+* javac -cp .:doodlepad.jar MyFirstDoodle.java  
 
   * In the example above, call the compiler using javac
   * then add -cp to identify the classpath
@@ -16,8 +16,8 @@ You may simply tweak your terminal commands slightly, to compile and run the fol
   * the above is for using on a MacOS, you may have to make a slight change and include
   * If you are using Windows Operating system use ".;doodlepad.jar" instead
 
-* Repeat the same for running the file - use java instead
-* java -cp ".:doodlepad.jar" "MyDoodlePadCode.java"  
+* Repeat the same for running the file - use java instead  
 
+* javac -cp .:doodlepad.jar MyFirstDoodle.java  
   
 
