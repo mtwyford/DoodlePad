@@ -55,5 +55,5 @@ suggest the compile chooses to comile the active file or tab in Geany.
   * NOTICE - the jar file and %f substitution are both wrapped in quotes
   * see image below for example
 
-![image of Geany Build Config](/img/Geany_Menu.jpeg)
+![image of Geany Build Config](/img/Geany_Build_Cmds.jpeg)
 
