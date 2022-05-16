@@ -39,4 +39,4 @@ commands built into the IDE.
 
 ### Consider the menu editor for Geany and DoodlePad
 
-![image of Geany Menu](/img/menu.jpeg)
+![image of Geany Menu](/img/Geany_Menu.jpeg)
