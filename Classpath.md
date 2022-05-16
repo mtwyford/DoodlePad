@@ -37,6 +37,6 @@ language of Java.  In addition to plug-ins like split-screen, students can also
 modify the compile and execute menu commands a little, with some extra custom  
 commands built into the IDE.
 
-## Consider the mmedu editor for Geany and DoodlePad
+### Consider the menu editor for Geany and DoodlePad
 
-
+![image of Geany Menu](/img/menu.jpeg)
