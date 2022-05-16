@@ -22,4 +22,21 @@ You may simply tweak your terminal commands slightly, to compile and run the fol
 
 * javac -cp .:doodlepad.jar MyFirstDoodle.java  
   
+# DoodlePad, ClassPath and Geany
+
+Using Geany ( https://geany.org/ ) the 'flyweight' Java Editor in class gives students a leg up without a handout.  
+
+As students need to learn the syntax of Java well, my preference has always been  
+to ask students to use a simple text editor like Notepap or TextEdit.  BlueJ is a  
+powerful editor with visual blocking color cues and helpful structure, and is  
+about as far as I am comfortable venturing with a full featured IDE / Editor.  
+
+Geany has provided the right level of ease, with color formatting and font options,  
+while still giving students no more that the simplest of tools to learn the  
+language of Java.  In addition to plug-ins like split-screen, students can also  
+modify the compile and execute menu commands a little, with some extra custom  
+commands built into the IDE.
+
+## Consider the mmedu editor for Geany and DoodlePad
+
 
