@@ -11,8 +11,8 @@ A couple key points -
   * Run the javac command from the terminal window within the project folder (folder with doodlepad.jar and .java files)
   * javac -cp doodlepad.jar Main.java
 * If you are creating multiple class files, use the asterisk (*) wildcard in your javac command
-  * javac -cp doodlepad.jar *.java
+  * _javac -cp doodlepad.jar *.java_
 * When ready to run, follow a similar pattern, but not the addition of the dot (period) and colon or semicolon
-  * java -cp .:doodlepad.jar Main  ((note the lack of .java or .class file - just like running java command,
+  * _java -cp .:doodlepad.jar Main_  ((note the lack of .java or .class file - just like running java command,
   * as well, depending on the platform, use the semicolon ( ; ) for Windows machines
-  * ...and for MAC and Linux use the colon - "java -cp .:doodlepad.jar Main"
+  * ...and for MAC and Linux use the colon - _java -cp .:doodlepad.jar Main_
