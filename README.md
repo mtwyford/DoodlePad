@@ -13,7 +13,7 @@ Not only drawing, but adding interactivity to help students convert board and gr
 * If you are creating multiple class files, use the asterisk (*) wildcard in your javac command
   * _javac -cp doodlepad.jar *.java_
 * **When ready to run**, follow a similar pattern, but not the addition of the dot (period) and colon or semicolon
-  * ***java -cp .:doodlepad.jar Main***
+  * ***java -cp .;doodlepad.jar Main***
    * ((note the lack of .java or .class file - just like running java command,
    * as well, depending on the platform, use the semicolon ( ; ) for Windows machines
    * ...and for MAC and Linux use the colon -
